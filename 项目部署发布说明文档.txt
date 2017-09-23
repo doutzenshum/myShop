@@ -1,0 +1,7 @@
+使用Navicat创建“shop”数据库并且运行sql文件；
+使用intellij导入项目；
+选择jdk版本；
+导入web-inf中的lib文件夹作为依赖包；
+配置并且部署到tomcat服务器；
+调整shop\classes\artifacts\shop_war_exploded\WEB-INF\jsp中的文件及其文件夹，使正常显示网页中的图片；
+运行。
